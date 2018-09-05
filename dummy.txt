@@ -1,0 +1,1 @@
+The 'ls' and 'git remote' commands are optional, they just show you stuff) Copy the 10000 files and millions of lines of code that you want to put in the repository:
